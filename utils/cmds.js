@@ -17,7 +17,7 @@ function unset(key) {
 // module.exports = {
 //   get,
 //   set,
-unset;
+// unset
 // }
 
 exports.get = get;
