@@ -8,7 +8,7 @@ function get(key) {
 }
 
 function set(key, value) {
-  passwordsl[key] = value;
+  passwords[key] = value;
 }
 
 function unset(key) {
