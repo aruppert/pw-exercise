@@ -17,11 +17,7 @@ function unset(key) {
 // module.exports = {
 //   get,
 //   set,
-<<<<<<< Updated upstream
-unset;
-=======
 // unset
->>>>>>> Stashed changes
 // }
 
 exports.get = get;
